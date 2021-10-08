@@ -15,3 +15,7 @@ sqlmap -u ""
 sqlmap -u "" --cookies="PHPID= ; sec" --tables(найти все таблицы)
 sqlmap -u "" --cookies="PHPID= ; sec" --schema (схема базы данных) --batch (чтобы автоматически всё шло)
 ```
+
+
+User: administrator
+Pass: password
