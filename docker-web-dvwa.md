@@ -17,5 +17,6 @@ sqlmap -u "" --cookies="PHPID= ; sec" --schema (схема базы данных
 ```
 
 
-User: administrator
+User: admin
+
 Pass: password
